@@ -1,8 +1,9 @@
 ## visualfx
 Repo of my work with VFX
 
-# Project 1 : Sim2Real Project Report for Duckietown (GAN and Neural Style Transfer) (https://docs.duckietown.org/daffy/course-extra/out/sim2real_final_report.html)
+# Project 1 : Sim2Real Project Report for Duckietown (GAN and Neural Style Transfer) 
 
+- (https://docs.duckietown.org/daffy/course-extra/out/sim2real_final_report.html)
 - Simulator images were extracted after image processing is done to remove redundancy
 - sim images were used to train CycleGAN and UNIT
 - in an attempt to do sim2real
