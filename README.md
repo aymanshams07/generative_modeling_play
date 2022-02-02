@@ -1,7 +1,7 @@
 # Visualfx
 Repo of my work related to VFX
 
-## Project 1 : UnPaired image-to-image translation using cycle connsistent GANs for Sim2Real task 
+## Project 1 : UnPaired image-to-image translation using cycle consistent GANs for Sim2Real task 
 
 - Project aims to reduce reality gap by using Generative Adversarial Networks to generate realistic images from simullation images. 
 - The UNIT model was able to learn a generative model that could generate quite realistic images from synthetic images.
