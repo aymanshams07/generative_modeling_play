@@ -1,4 +1,4 @@
-# visualfx
+# Visualfx
 Repo of my work related to VFX
 
 ## Project 1 : Paired image to image translation for Sim2Real task using GAN
