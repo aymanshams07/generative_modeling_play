@@ -1,5 +1,5 @@
 # visualfx
-Repo of my work with VFX
+Repo of my work related to VFX
 
 ## Project 1 : Paired image to image translation for Sim2Real task using GAN
 - https://docs.duckietown.org/daffy/course-extra/out/sim2real_final_report.html
