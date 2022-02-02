@@ -1,15 +1,17 @@
 # Visualfx
 Repo of my work related to VFX
 
-## Project 1 : Paired image to image translation for Sim2Real task using GAN
+## Project 1 : UnPaired image-to-image translation using cycle connsistent GANs for Sim2Real task 
+
+- Project aims to reduce reality gap by using Generative Adversarial Networks to generate realistic images from simullation images. 
 - https://docs.duckietown.org/daffy/course-extra/out/sim2real_final_report.html
 - Simulator images were extracted after image processing is done to remove redundancy
 - sim images CycleGAN and UNIT
 
-
 ## Project 1 part 2: Style transfer for Duckietown
 
-- Static images were used transfer the style of real images to simulator images 
+- VGG-19 CNN architecture is used to extract both the content and style features from the content and style images respectively.
+ 
 - check project report
 
 # Project 3 : Face Recognition
