@@ -1,14 +1,13 @@
-## visualfx
+# visualfx
 Repo of my work with VFX
 
-# Project 1 : Paired image to image translation for Sim2Real task (GAN and Neural Style Transfer) 
-
+## Project 1 : Paired image to image translation for Sim2Real task using GAN
 - https://docs.duckietown.org/daffy/course-extra/out/sim2real_final_report.html
 - Simulator images were extracted after image processing is done to remove redundancy
 - sim images CycleGAN and UNIT
 
 
-# Project 2 : Style transfer for Duckietown
+## Project 1 part 2: Style transfer for Duckietown
 
 - Static images were used transfer the style of real images to simulator images 
 - check project report
