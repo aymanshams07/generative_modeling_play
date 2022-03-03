@@ -21,4 +21,4 @@ Repo of my work related to VFX
 - - worked on a dataset of facial images of dimension 650 X 506 X 3
 - - performed PCA to reduce dimentionality of the images
 - - The eigenface method was used to  recognise an input image. Euclidean distance between this input image eigenface and the previously stored eigenface are calculated, the eigenface with the smallest Euclidean distance is the one the  person resembles the most. 
-- - More details of the code will be produced when asked
+- More details of the code will be produced when asked
