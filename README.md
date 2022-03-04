@@ -25,5 +25,5 @@
 
 ## Project 4 : Using music transformer to generate music and then make generative model GAN react to the music (Audio-reactive Latent Interpolations with StyleGAN)
 Example of work
-https://drive.google.com/file/d/1yKflC5aIhLaty2Q5TfxqJqWd9MqIb1bl/view?usp=sharing
-https://drive.google.com/file/d/1Z-12ax042iECnG2N8_pUzwhr1fY63xi2/view?usp=sharing
+- https://drive.google.com/file/d/1yKflC5aIhLaty2Q5TfxqJqWd9MqIb1bl/view?usp=sharing
+- https://drive.google.com/file/d/1Z-12ax042iECnG2N8_pUzwhr1fY63xi2/view?usp=sharing
