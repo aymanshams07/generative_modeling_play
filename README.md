@@ -15,7 +15,7 @@
 - - VGG-19 CNN architecture is used to extract both the content and style features from the content and style images respectively.
 - - check project report
 
-# Project 3 : Face Recognition
+## Project 3 : Face Recognition
 
 - Project report : https://docs.google.com/document/d/11p0kalhKnpEl-ZTEpxwSHA3AIvaukwr7S6v5ZMj9Mbs/edit
 - - worked on a dataset of facial images of dimension 650 X 506 X 3
@@ -23,7 +23,7 @@
 - - The eigenface method was used to  recognise an input image. Euclidean distance between this input image eigenface and the previously stored eigenface are calculated, the eigenface with the smallest Euclidean distance is the one the  person resembles the most. 
 - More details of the code will be produced when asked
 
-Project 4 : Using music transformer to generate music and then make generative model GAN react to the music (Audio-reactive Latent Interpolations with StyleGAN)
+## Project 4 : Using music transformer to generate music and then make generative model GAN react to the music (Audio-reactive Latent Interpolations with StyleGAN)
 Example of work
 https://drive.google.com/file/d/1yKflC5aIhLaty2Q5TfxqJqWd9MqIb1bl/view?usp=sharing
 https://drive.google.com/file/d/1Z-12ax042iECnG2N8_pUzwhr1fY63xi2/view?usp=sharing
