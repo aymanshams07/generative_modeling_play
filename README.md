@@ -1,5 +1,5 @@
-# Visualfx
-Repo of my work related to VFX
+# Art and creative applications of Ai 
+
 
 ## Project 1 : UnPaired image-to-image translation using cycle consistent GANs for Sim2Real task 
 
@@ -22,3 +22,8 @@ Repo of my work related to VFX
 - - performed PCA to reduce dimentionality of the images
 - - The eigenface method was used to  recognise an input image. Euclidean distance between this input image eigenface and the previously stored eigenface are calculated, the eigenface with the smallest Euclidean distance is the one the  person resembles the most. 
 - More details of the code will be produced when asked
+
+Project 4 : Using music transformer to generate music and then make generative model GAN react to the music (Audio-reactive Latent Interpolations with StyleGAN)
+Example of work
+https://drive.google.com/file/d/1yKflC5aIhLaty2Q5TfxqJqWd9MqIb1bl/view?usp=sharing
+https://drive.google.com/file/d/1Z-12ax042iECnG2N8_pUzwhr1fY63xi2/view?usp=sharing
