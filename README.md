@@ -17,7 +17,8 @@
 
 ## Project 3 : Face Recognition
 
-- Project report : https://docs.google.com/document/d/11p0kalhKnpEl-ZTEpxwSHA3AIvaukwr7S6v5ZMj9Mbs/edit
+- Project report 
+- https://docs.google.com/document/d/11p0kalhKnpEl-ZTEpxwSHA3AIvaukwr7S6v5ZMj9Mbs/edit?usp=sharing
 - worked on a dataset of facial images of dimension 650 X 506 X 3
 - performed PCA to reduce dimentionality of the images
 - The eigenface method was used to  recognise an input image. Euclidean distance between this input image eigenface and the previously stored eigenface are calculated, the eigenface with the smallest Euclidean distance is the one the  person resembles the most. 
