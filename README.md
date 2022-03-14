@@ -6,7 +6,7 @@
 - Project aims to reduce reality gap by using Generative Adversarial Networks to generate realistic images from simullation images. 
 -  The UNIT model was able to learn a generative model that could generate quite realistic images from synthetic images.
 - UNIT attempts to learn the same mapping G : X -> Y as CycleGAN, but it uses a slightly different approach, by enforcing the idea of a shared latent space between pairs of images and using Variational Auto Encoders (VAE) in addition to a GAN network. Thus, UNIT tries to learn that shared latent space and tries to minimize the cycle consistency loss, the VAE losses as well as the adversarial losses.
-- https://docs.duckietown.org/daffy/course-extra/out/sim2real_final_report.html
+- https://github.com/duckietown/course-extra/blob/daffy/book/course-extra/70_montreal_2020/10_project_reports_montreal_2020/04-sim2real/01_project-report-sim2real.md
 
 
 ## Project 1 part 2: Style transfer for Duckietown
