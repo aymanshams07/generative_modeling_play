@@ -1,4 +1,4 @@
-# Art and creative applications of Ai 
+## Generative modeling (GANS, GAN+VAE, Music Transformer)
 
 
 ## Project 1 : UnPaired image-to-image translation using cycle consistent GANs for Sim2Real task 
