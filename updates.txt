@@ -1,1 +1,4 @@
 -source code is missing
+usd shader : 
+mpcpython /usr/people/shamsa/Documents/tute.py
+usdview heloworld.usda 
