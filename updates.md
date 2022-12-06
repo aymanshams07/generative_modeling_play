@@ -1,9 +1,15 @@
--source code is missing
-## usd shader : 
+# source code is missing
+# usd shader : 
 
-# MPC command : 
-mpcpython /usr/people/shamsa/Documents/tute.py
-usdview heloworld.usda 
+## MPC command 
+- for usd: 
+- mpcpython /usr/people/shamsa/Documents/tute.py
+- usdview heloworld.usda 
+## For Fur
+- job techanimLibrary creativeProgram_MON/abdelkader-n
+
+Shortcuts : 
+- ctrl+shft+T for new tab
 
 # resources: 
 https://www.sidefx.com/docs/houdini/solaris/usd.html
@@ -31,6 +37,6 @@ Video Tutorials:
 
 # todays plan 
 - clone github repo
-- copy techanim tools into repo 
+- copy techanim tools into repo (houdini env)
 - build and make using ion container
 - check the changes made and rebuild to deploy
