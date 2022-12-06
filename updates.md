@@ -25,5 +25,5 @@ https://www.sidefx.com/docs/houdini/ref/plugins.html
 
 
 Video Tutorials: 
-python in HOD : https://www.youtube.com/watch?v=CxoVzsxiruY
-just pieline things : https://www.youtube.com/watch?v=gOdRQsAjQWk
+- python in HOD : https://www.youtube.com/watch?v=CxoVzsxiruY
+- just pieline things : https://www.youtube.com/watch?v=gOdRQsAjQWk
