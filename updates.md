@@ -40,3 +40,5 @@ Video Tutorials:
 - copy techanim tools into repo (houdini env)
 - build and make using ion container
 - check the changes made and rebuild to deploy
+
+# check up on why fursetup tool isnt leading
