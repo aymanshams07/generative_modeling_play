@@ -1,4 +1,4 @@
-# source code is missing
+## Resources
 # usd shader : 
 
 ## MPC command 
@@ -40,5 +40,8 @@ Video Tutorials:
 - copy techanim tools into repo (houdini env)
 - build and make using ion container
 - check the changes made and rebuild to deploy
+- linux : job history, job -h
 
 # check up on why fursetup tool isnt leading
+
+# OTL
