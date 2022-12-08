@@ -45,3 +45,4 @@ Video Tutorials:
 # check up on why fursetup tool isnt leading
 
 # OTL
+- https://web.microsoftstream.com/video/7f336b3d-5db4-458f-aec9-2c1fdca8be79?referrer=https:%2F%2Fconfluence.ps.thmulti.com%2F
